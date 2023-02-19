@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.outerContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 70px 160px 0;
+}

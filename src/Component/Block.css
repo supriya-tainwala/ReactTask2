@@ -1,0 +1,47 @@
+.container {
+    height: 380px;
+    width: 300px;
+    border: 1px solid rgb(14, 13, 13);
+    border-radius: 10%;
+    font-family:Montserrat;
+    
+
+}
+
+.text {
+    /* border: 1px solid black; */
+    margin: 25px;
+    height: 40px;
+    text-align: center;
+    padding:5px ;
+    background-color: rgb(189, 136, 66);
+    
+
+}
+
+.discription {
+    margin: 25px;
+    border: 1px solid black;
+    height: 110px;
+    text-align: center;
+    padding: 10px;
+    background-color:rgb(212, 233, 212);
+    /* font-family:Montserrat; */
+    justify-content:center ;
+
+}
+
+.btn {
+    width: 90px;
+    height: 50px;
+    border-radius: 20%;
+    background-color:palevioletred
+    
+}
+
+.btnContainer {
+    text-align: center;
+    /* border: 1px solid black; */
+
+}
+
